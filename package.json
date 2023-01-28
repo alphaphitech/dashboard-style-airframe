@@ -24,13 +24,13 @@
   "_where": "/home/jmcm/business/Gluu/code/jans-admin-ui",
   "author": "webkom.co",
   "dependencies": {
-    "animejs": "^3.0.1",
-    "highcharts": "^9.2.2",
-    "url-join": "^4.0.0"
+    "animejs": "^3.2.1",
+    "highcharts": "^10.3.3",
+    "url-join": "^5.0.0"
   },
   "deprecated": false,
   "devDependencies": {
-    "gulp-replace": "^1.0.0"
+    "gulp-replace": "^1.1.4"
   },
   "license": "MIT",
   "main": "js-modules/index.js",
